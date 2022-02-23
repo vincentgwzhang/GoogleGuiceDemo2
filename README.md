@@ -1,0 +1,2 @@
+@Named == @Qualified
+@Inject == @Autowired
